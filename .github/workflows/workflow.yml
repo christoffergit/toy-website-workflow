@@ -7,5 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'placeholder step'
-        shell: pwsh
-        run: Get-Content cat.txt    
+        run: |    
